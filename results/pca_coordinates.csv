@@ -1,0 +1,31 @@
+PC1,PC2,Family,Protein
+-1.2669746,0.005871527,cytochrome c,cytochrome_c|D0VWV4
+-1.1307782,0.08030993,cytochrome c,cytochrome_c|O13995
+-1.3425068,-0.16775942,cytochrome c,cytochrome_c|O14548
+-1.0614629,0.25410905,cytochrome c,cytochrome_c|O43169
+0.4477216,-0.52811015,cytochrome c,cytochrome_c|P00002
+0.58132595,-0.6281467,cytochrome c,cytochrome_c|P00004
+2.7020063,1.6634094,ferredoxin,ferredoxin|P0A3C7
+2.783778,1.6623658,ferredoxin,ferredoxin|P0A3C9
+1.4770632,1.3305167,ferredoxin,ferredoxin|P16972
+2.7165103,1.7429736,ferredoxin,ferredoxin|P27320
+1.5331283,1.2835894,ferredoxin,ferredoxin|P27787
+-1.400682,0.23288591,ferredoxin,ferredoxin|P41348
+-1.9746176,0.33848915,lysozyme,lysozyme|B3A003
+-1.8680125,0.13768063,lysozyme,lysozyme|O76357
+-2.0237079,0.38969082,lysozyme,lysozyme|P83673
+-2.1323638,0.18732367,lysozyme,lysozyme|P86383
+-1.8583689,0.36499342,lysozyme,lysozyme|Q1XG90
+-1.9190738,0.18850826,lysozyme,lysozyme|Q8IU26
+-0.4948133,0.26429847,ubiquitin,ubiquitin|G2XKQ0
+-0.6302103,0.2646417,ubiquitin,ubiquitin|O13351
+0.14468998,0.2057049,ubiquitin,ubiquitin|P29595
+-0.3762518,0.34051278,ubiquitin,ubiquitin|P55852
+-0.107650995,0.3203131,ubiquitin,ubiquitin|P55853
+-0.4610771,0.2562558,ubiquitin,ubiquitin|P55854
+1.2615702,-1.7251053,triosephosphate isomerase,triosephosphate_isomerase|A0A1L5YRA2
+1.232972,-1.6684647,triosephosphate isomerase,triosephosphate_isomerase|F5A6E9
+1.2881764,-1.7890476,triosephosphate isomerase,triosephosphate_isomerase|P00939
+1.2928253,-1.8102571,triosephosphate isomerase,triosephosphate_isomerase|P00940
+1.322682,-1.6537071,triosephosphate isomerase,triosephosphate_isomerase|P00942
+1.2640944,-1.5438471,triosephosphate isomerase,triosephosphate_isomerase|P00943
